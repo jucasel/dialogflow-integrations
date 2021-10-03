@@ -37,8 +37,8 @@ const twitterSecretAPIKey = "Place you secret consumer key here";
 const twitterAccessToken = "Place your access token here";
 const twitterSecretAccessToken = "Place your secret access token here";
 const targetUrl = "Place your server's url here";
-const projectId = "Place your dialogflow projectId here";
-const environmentName = "Place your twitter environment name here";
+const projectId = "22106830";
+const environmentName = "Development";
 
 const twitterOAuth = {
   consumer_key: twitterAPIKey,
